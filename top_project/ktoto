@@ -1,0 +1,41 @@
+user4 = User.Find(4)
+article4 = Article.new(name: "Article4")
+user4.article = article4
+user4.save
+user4 = User.new(name: "User4")
+article4 = Article.new(name: "Article4")
+user.article = article4
+
+user5 = User.new(name: "User5")
+article5 = Article.new(name: "Article5")
+user.article = article5
+
+user6 = User.new(name: "User6")
+article6 = Article.new(name: "Article6")
+user.article = article6
+
+user7 = User.new(name: "User7")
+article7 = Article.new(name: "Article7")
+user.article = article7
+
+user8 = User.new(name: "User8")
+article8 = Article.new(name: "Article8")
+user.article = article8
+
+user9 = User.new(name: "User9")
+article9 = Article.new(name: "Article9")
+user9.article = article9
+user9.save
+user10 = User.new(name: "User10")
+article10 = Article.new(name: "Article10")
+user10.article = article10
+user10.save
+user3.save
+user4.save
+user5.save
+user6.save
+user7.save
+user8.save
+user9.save
+User10.save
+

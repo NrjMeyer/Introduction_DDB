@@ -20,7 +20,7 @@ Pour commencer:
 
    It's ok to run this even if bundler is already installed.  The "bundler"
    gem provides the `bundle` command.
-4. In the `Introduction_DDB` directory, run
+4. In each of directory, run
 
    ```bash
    bundle install

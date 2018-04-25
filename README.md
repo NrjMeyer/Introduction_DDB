@@ -29,6 +29,8 @@ Pour commencer:
    to install the necessary gems.  If this doesn't work, either the "bundler"
    gem isn't installed or there is something wrong with your Ruby installation.
    Let us know!
+   
+5. Utiliser `rails console` pour faire les testes de liaison   
 
 
 **Note**: Il est fortement recommander la version 5.x.x de Rails. Si vous n'avez pas cette version, désinstaller Rails et installer la vesrion recommandée .
